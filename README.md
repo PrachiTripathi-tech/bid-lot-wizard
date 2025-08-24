@@ -16,5 +16,5 @@ Bid Lot Wizard is an auction and bidding platform where users can create and man
 
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/bid-lot-wizard.git
+git clone https://github.com/PrachiTripathi-tech/bid-lot-wizard.git
 cd bid-lot-wizard
